@@ -12,7 +12,7 @@ Este arquivo e gerado automaticamente pela pipeline.
 
 | Item | Valor |
 |---|---|
-| Status | ⚪ Pulado (algum gate de seguranca falhou) |
-| Commit | `d472bf5c057b14c5621d5b56a3485f0d2a0ea820` |
-| Execucao | [35667699853](https://github.com/RodrigoMaffezza/-unifebe-si08-pp1/actions/runs/35667699853) |
-| Data | 21/09/2026 23:30 UTC |
+| Status | 🔴 Falha |
+| Commit | `3105ecc024078c690b8e5b0a43bbf5129f73e5d9` |
+| Execucao | [35667993645](https://github.com/RodrigoMaffezza/-unifebe-si08-pp1/actions/runs/35667993645) |
+| Data | 21/09/2026 23:34 UTC |
