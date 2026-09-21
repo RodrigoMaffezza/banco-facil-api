@@ -1,0 +1,9 @@
+# Ocorrencias historicas de segredos de EXEMPLO (chave AWS oficial da
+# documentacao da AWS e chave de pagamento fictícia), commitadas de proposito
+# no commit 21dc3b3 para fins didaticos e ja removidas do codigo atual.
+# Como nunca foram credenciais reais, a remediacao adotada foi reconhecer os
+# achados aqui (em vez de reescrever o historico do Git), identificando cada
+# ocorrencia pelo fingerprint exato reportado pelo Gitleaks
+# (formato commit:arquivo:regra:linha).
+21dc3b3dce22770de1abfb33fe6dd527f212b72a:src/main/java/com/unifebe/devsecops/config/AppConfig.java:aws-access-token:14
+21dc3b3dce22770de1abfb33fe6dd527f212b72a:src/main/java/com/unifebe/devsecops/config/AppConfig.java:stripe-access-token:18
