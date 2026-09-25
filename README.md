@@ -12,7 +12,10 @@ Este arquivo e gerado automaticamente pela pipeline.
 
 | Item | Valor |
 |---|---|
-| Status | 🔴 Falha |
-| Commit | `3105ecc024078c690b8e5b0a43bbf5129f73e5d9` |
-| Execucao | [35667993645](https://github.com/RodrigoMaffezza/-unifebe-si08-pp1/actions/runs/35667993645) |
-| Data | 21/09/2026 23:34 UTC |
+| Status | 🟢 Sucesso |
+| Imagem | `ghcr.io/rodrigomaffezza/banco-facil-api` |
+| Tags | `latest`, `c92d02326612102b433a2e6de6ff0cd7d379c5ff` |
+| Digest | `sha256:fcfc638f1a67470b612bcd0f0e3cac398268083c31958324483c195d5c049e27` |
+| Commit | `c92d02326612102b433a2e6de6ff0cd7d379c5ff` |
+| Execucao | [36138616908](https://github.com/RodrigoMaffezza/banco-facil-api/actions/runs/36138616908) |
+| Data | 25/09/2026 13:06 UTC |
